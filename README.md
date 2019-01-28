@@ -1,4 +1,4 @@
-### [BACK TO THE MAIN COURSE](https://github-open-academy.github.io/#/beanmoss/Front-End-Web-Development-Quick-Start-With-HTML5-CSS-and-JavaScript)
+### [BACK TO THE MAIN COURSE](/#/beanmoss/Front-End-Web-Development-Quick-Start-With-HTML5-CSS-and-JavaScript)
 
 # What is HTML?
 
